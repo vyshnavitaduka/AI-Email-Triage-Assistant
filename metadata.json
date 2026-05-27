@@ -1,0 +1,6 @@
+{
+  "name": "AI Email Triage Assistant",
+  "description": "Automated email ingestion, GPT/Gemini-powered classifications, slack block kit draft approval loops, custom router pipelines, and Notion database storage tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
